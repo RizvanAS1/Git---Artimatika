@@ -15,5 +15,7 @@ public class Aritmatika {
 		return a * b;
 	}
 	//Developer 3 (div)
-	
+	public double div(int a, int b) {
+		return a / b;
+	}
 }
